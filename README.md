@@ -1,1 +1,1 @@
-# Machine-Learning-Optimization-and-Artificial-Labworks
+# Machine-Learning-Optimization-and-Artificial-Intelligence-Labworks
